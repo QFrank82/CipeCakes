@@ -593,8 +593,8 @@ figure.team:hover i {
 }
 .contact-icon-info {
     margin-top: 30px;
-}
-.contact-icon-info p {
+
+
 
 }
 .contact-info{
@@ -1373,7 +1373,7 @@ ul.custom.categories {
     margin: 0 auto;
     display: inline-block;
     position: absolute;
-    float: right;
+    float: none;
     right: 20px;
 }
 .back-to-top i {
